@@ -1,4 +1,4 @@
-C - Simple Shell Group Proje                                 
+C - Simple Shell Group Projec                                 
                                                                                                                                         
 ## Simple Shell - Write a simple UNIX command interpreter.
 
