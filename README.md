@@ -1,4 +1,4 @@
-C - Simple Shell Group P                                                         
+C - Simple Shell Group Pro                                                         
                                                                                                                                         
 ## Simple Shell - Write a simple UNIX command interpreter.
 
